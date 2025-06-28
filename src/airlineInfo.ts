@@ -203,7 +203,7 @@ function onEnterClick(): void {
       <strong>Founded:</strong> ${found.startYear}
     `;
   } else if (matches.length > 1) {
-    output.innerHTML = `<strong>Multiple airlines found:</strong><br>` +
+    output.innerHTML = `<strong>Multiple airlines found. Which one do you want to look up?</strong><br>` +
       matches
         .map(a => {
           const flag = getFlagEmoji(a);
