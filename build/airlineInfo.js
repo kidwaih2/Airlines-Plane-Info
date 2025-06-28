@@ -24,41 +24,24 @@ class american {
     }
 }
 // Canadian Airlines
-class airCanada extends canadian {
-}
-class Westjet extends canadian {
-}
-class Flair extends canadian {
-}
-class airTransat extends canadian {
-}
-class Porter extends canadian {
-}
-class Sunwing extends canadian {
-}
-class canadianNorth extends canadian {
-}
+class airCanada extends canadian {}
+class Westjet extends canadian {}
+class Flair extends canadian {}
+class airTransat extends canadian {}
+class Porter extends canadian {}
+class Sunwing extends canadian {}
+class canadianNorth extends canadian {}
 // American Airlines
-class United extends american {
-}
-class americanAirlines extends american {
-}
-class Delta extends american {
-}
-class Southwest extends american {
-}
-class jetBlue extends american {
-}
-class Hawaiian extends american {
-}
-class Allegiant extends american {
-}
-class Alaska extends american {
-}
-class Spirit extends american {
-}
-class Frontier extends american {
-}
+class United extends american {}
+class americanAirlines extends american {}
+class Delta extends american {}
+class Southwest extends american {}
+class jetBlue extends american {}
+class Hawaiian extends american {}
+class Allegiant extends american {}
+class Alaska extends american {}
+class Spirit extends american {}
+class Frontier extends american {}
 // Canadian Airlines
 const ac = new airCanada("Air Canada", 10, "Airbus A220, Airbus A320, Airbus A321, Boeing 737, Embraer E-175, Airbus A330, Boeing 767, Boeing 777, Boeing 787 Dreamliner", 1937);
 const westjet = new Westjet("WestJet", 2, "Boeing 737, Boeing 787", 1994);
@@ -118,7 +101,7 @@ function onEnterClick() {
     `;
     }
     else if (matches.length > 1) {
-        output.innerHTML = `<strong>Multiple airlines found:</strong><br>` +
+        output.innerHTML = `<strong>Multiple airlines found. Which one do you want to look up?</strong><br>` +
             matches
                 .map(a => {
                 const flag = getFlagEmoji(a);
