@@ -1,2 +1,2 @@
-# Passenger-Airlines-Model-Info
-# Website: https://kidwaih2.github.io/Passenger-Airlines-Model-Info/
+# Airlines-Plane-Info
+# Website: https://kidwaih2.github.io/Airlines-Plane-Info/
