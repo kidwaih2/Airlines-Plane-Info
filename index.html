@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Passenger Airlines Model Info</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to left, rgb(47, 0, 255), black);
+      color: white;
+      font-family: sans-serif;
+    }
+
+    .wrapper {
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .main-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 60px 20px 40px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    input {
+      width: 100%;
+      max-width: 400px;
+      background-color: white;
+      border: none;
+      padding: 10px;
+      color: black;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+
+    button {
+      transition: 1s;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 16px;
+      width: 100%;
+      max-width: 120px;
+      border: none;
+    }
+
+    button:hover {
+      cursor: pointer;
+      color: white;
+      background-color: black;
+      border-radius: 50px;
+    }
+
+    button:active {
+      opacity: 0.2;
+    }
+
+    .output-box {
+      border: 2px solid white;
+      padding: 15px;
+      margin-top: 20px;
+      width: 100%;
+      max-width: 400px;
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      text-align: left;
+      font-family: monospace;
+      font-size: 16px;
+      line-height: 1.5;
+      box-sizing: border-box;
+    }
+
+    .footer-note {
+      color: red;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.4);
+      padding: 15px 10px;
+      font-size: 14px;
+    }
+
+    .footer-note h2 {
+      margin: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="main-container">
+      <h1>American + Canadian Passenger Airlines Info</h1>
+      <input id="Airline" placeholder="Enter an Airline (e.g. Air Canada)" />
+      <button onclick="onEnterClick()">Enter</button>
+      <p id="output" class="output-box"></p>
+    </div>
+
+    <div class="footer-note">
+      <h2>Disclaimer: This website only works for Canadian and American PASSENGER Airlines and does not 
+      include submodels of planes</h2>
+    </div>
+  </div>
+
+  <script src="build/loadAirlineData.js"></script>
+</body>
+</html>
