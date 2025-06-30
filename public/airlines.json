@@ -1,0 +1,155 @@
+[
+  {
+    "company": "Air Canada",
+    "numberOfModels": 10,
+    "models": "Airbus A220, Airbus A320, Airbus A321, Boeing 737, Embraer E-175, Airbus A330, Boeing 767, Boeing 777, Boeing 787 Dreamliner",
+    "startYear": 1937,
+    "founders": "Canadian Government",
+    "description": "Canada\u2019s largest airline, founded in 1937 as Trans-Canada Air Lines. It became Air Canada in 1965 and is the country\u2019s flag carrier with extensive domestic and global routes.",
+    "country": "Canada"
+  },
+  {
+    "company": "WestJet",
+    "numberOfModels": 2,
+    "models": "Boeing 737, Boeing 787",
+    "startYear": 1994,
+    "founders": "Tim Morgan, Clive Beddoe, Donald Bell, David Neeleman, Mark Hill",
+    "description": "Established in 1996 as a low-cost alternative to Air Canada, WestJet has grown rapidly into one of Canada\u2019s major airlines with expanding international service.",
+    "country": "Canada"
+  },
+  {
+    "company": "Flair Airlines",
+    "numberOfModels": 1,
+    "models": "Boeing 737",
+    "startYear": 2005,
+    "founders": "Jim Rogers",
+    "description": "Founded in 2005 as a regional carrier, Flair transformed into an ultra-low-cost airline focusing on affordable flights across Canada.",
+    "country": "Canada"
+  },
+  {
+    "company": "Porter",
+    "numberOfModels": 1,
+    "models": "Embraer E-195",
+    "startYear": 2006,
+    "founders": "Robert Deluce",
+    "description": "Launched in 2006, Porter built its niche on comfortable regional flights out of Toronto\u2019s downtown airport, formerly the site of the old City Centre Airport.",
+    "country": "Canada"
+  },
+  {
+    "company": "Air Transat",
+    "numberOfModels": 2,
+    "models": "Airbus A321, Airbus A330-300",
+    "startYear": 1987,
+    "founders": "Fran\u00e7ois Legault, Jean-Marc Eustache, Lina De Cesare, Philippe Sureau",
+    "description": "Founded in 1986, Air Transat specializes in holiday charters and scheduled flights mainly to Europe and the Caribbean, growing from a small tour operator.",
+    "country": "Canada"
+  },
+  {
+    "company": "Canadian North",
+    "numberOfModels": 3,
+    "models": "Boeing 737, ATR-42, ATR-72",
+    "startYear": 1989,
+    "founders": "Pacific Western Airlines, Canadian Pacific Air Lines",
+    "description": "Originating from the merger of Air Inuit and Inter-Canadien, Canadian North serves remote northern communities, providing crucial passenger and cargo services.",
+    "country": "Canada"
+  },
+  {
+    "company": "Sunwing Airlines",
+    "numberOfModels": 1,
+    "models": "Boeing 737",
+    "startYear": 2005,
+    "founders": "Collin Hunter",
+    "description": "Established in 2005, Sunwing operates mainly charter and scheduled flights to vacation destinations, evolving from a travel company subsidiary.",
+    "country": "Canada"
+  },
+  {
+    "company": "United Airlines",
+    "numberOfModels": 10,
+    "models": "Airbus A319, Airbus A320, Airbus A321, Boeing 737, Boeing 757, Boeing 767, Boeing 777, Boeing 787 Dreamliner, Embraer E-170, Embraer E-175",
+    "startYear": 1926,
+    "founders": "Walter Varney",
+    "description": "Founded in 1926 as Varney Air Lines, United grew through mergers into one of the world\u2019s largest airlines with a vast international network. It has the largest fleet size in the world+",
+    "country": "USA"
+  },
+  {
+    "company": "American Airlines",
+    "numberOfModels": 10,
+    "models": "Airbus A319, Airbus A320, Airbus A321, Boeing 737, Boeing 757, Boeing 767, Boeing 777, Boeing 787 Dreamliner, Embraer E-170, Embraer E-175",
+    "startYear": 1930,
+    "founders": "Robertson Aircraft Corporation, Colonial Air Transport",
+    "description": "Established in 1930 from a merger of more than 80 small airlines, American is a founding member of the Oneworld alliance and a global industry leader.",
+    "country": "USA"
+  },
+  {
+    "company": "Delta Air Lines",
+    "numberOfModels": 10,
+    "models": "Airbus A220, Airbus A319, Airbus A320, Airbus A321, Boeing 717, Boeing 737, Boeing 757, Boeing 767, Boeing 767, Boeing 787 Dreamliner",
+    "startYear": 1928,
+    "founders": "Collett E. Woolman",
+    "description": "Starting in 1924 as a crop dusting company called Huff Daland Dusters, Delta evolved into a major passenger airline with a strong US and global presence.",
+    "country": "USA"
+  },
+  {
+    "company": "Alaska Airlines",
+    "numberOfModels": 1,
+    "models": "Boeing 737",
+    "startYear": 1932,
+    "founders": "Linious McGee",
+    "description": "Tracing roots to 1932 as McGee Airways, Alaska Airlines grew by acquiring regional carriers and serving the US West Coast and Alaska extensively.",
+    "country": "USA"
+  },
+  {
+    "company": "Hawaiian Airlines",
+    "numberOfModels": 4,
+    "models": "Airbus A321, Airbus A330, Boeing 717, Boeing 767, Boeing 787 Dreamliner",
+    "startYear": 1929,
+    "founders": "Stanley C. Kennedy Sr",
+    "description": "Founded in 1929 as Inter-Island Airways, it is the oldest US carrier operating under its original name, connecting the Hawaiian Islands and beyond.",
+    "country": "USA"
+  },
+  {
+    "company": "Allegiant Air",
+    "numberOfModels": 4,
+    "models": "Airbus A319, Airbus A320, Boeing 737",
+    "startYear": 1997,
+    "founders": "",
+    "description": "Founded in 1997 as a charter operator, Allegiant shifted to an ultra-low-cost scheduled service focusing on underserved markets.",
+    "country": "USA"
+  },
+  {
+    "company": "JetBlue Airways",
+    "numberOfModels": 3,
+    "models": "Airbus A320, Airbus A321, Embraer E-190",
+    "startYear": 1998,
+    "founders": "",
+    "description": "Launched in 1999 to provide low-cost service with a focus on passenger comfort and technology, rapidly expanding routes across the US and Caribbean.",
+    "country": "USA"
+  },
+  {
+    "company": "Southwest Airlines",
+    "numberOfModels": 1,
+    "models": "Boeing 737",
+    "startYear": 1966,
+    "founders": "",
+    "description": "Began in 1967 as a regional airline focused on low fares and quick turnarounds; it\u2019s now the largest domestic low-cost carrier in the US.",
+    "country": "USA"
+  },
+  {
+    "company": "Spirit Airlines",
+    "numberOfModels": 3,
+    "models": "Airbus A319, Airbus A320, Airbus A321",
+    "startYear": 1992,
+    "founders": "",
+    "description": "Started in 1980 as a regional airline named Charter One, Spirit transformed into an ultra-low-cost carrier focusing on bare-bones, low-fare flights.",
+    "country": "USA"
+  },
+  {
+    "company": "Frontier Airlines",
+    "numberOfModels": 3,
+    "models": "Airbus A319, Airbus A320, Airbus A321",
+    "startYear": 1994,
+    "founders": "",
+    "description": "Founded in 1994 after the original Frontier Airlines (1950-1986) ceased operations, it now operates as a low-cost carrier with a focus on environmental sustainability.",
+    "country": "USA"
+  }
+]
