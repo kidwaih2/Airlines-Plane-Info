@@ -2,8 +2,8 @@
 [
   {
     "company": "Air Canada",
-    "numberOfModels": 10,
-    "models": "Airbus A220, Airbus A320, Airbus A321, Boeing 737, Embraer E-175, Airbus A330, Boeing 767, Boeing 777, Boeing 787 Dreamliner",
+    "numberOfModels": 9,
+    "models": "Airbus A220, Airbus A320, Airbus A321, Boeing 737, Airbus A330, Boeing 767, Boeing 777, Boeing 787 Dreamliner",
     "startYear": 1937,
     "founders": "Canadian Government",
     "description": "Canada\u2019s largest airline, founded in 1937 as Trans-Canada Air Lines. It became Air Canada in 1965 and is the country\u2019s flag carrier with extensive domestic and global routes.",
