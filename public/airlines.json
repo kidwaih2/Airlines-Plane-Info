@@ -112,7 +112,7 @@
     "numberOfModels": 4,
     "models": "Airbus A319, Airbus A320, Boeing 737",
     "startYear": 1997,
-    "founders": "",
+    "founders": "Mitch Allee, Jim Patterson, Capt. Dave Beadle",
     "description": "Founded in 1997 as a charter operator, Allegiant shifted to an ultra-low-cost scheduled service focusing on underserved markets.",
     "country": "USA"
   },
@@ -121,7 +121,7 @@
     "numberOfModels": 3,
     "models": "Airbus A320, Airbus A321, Embraer E-190",
     "startYear": 1998,
-    "founders": "",
+    "founders": "David Neeleman",
     "description": "Launched in 1999 to provide low-cost service with a focus on passenger comfort and technology, rapidly expanding routes across the US and Caribbean.",
     "country": "USA"
   },
@@ -130,7 +130,7 @@
     "numberOfModels": 1,
     "models": "Boeing 737",
     "startYear": 1966,
-    "founders": "",
+    "founders": "Herb Kelleher, Rollin King",
     "description": "Began in 1967 as a regional airline focused on low fares and quick turnarounds; it\u2019s now the largest domestic low-cost carrier in the US.",
     "country": "USA"
   },
@@ -139,7 +139,7 @@
     "numberOfModels": 3,
     "models": "Airbus A319, Airbus A320, Airbus A321",
     "startYear": 1992,
-    "founders": "",
+    "founders": "Ned Homfeld",
     "description": "Started in 1980 as a regional airline named Charter One, Spirit transformed into an ultra-low-cost carrier focusing on bare-bones, low-fare flights.",
     "country": "USA"
   },
@@ -148,7 +148,7 @@
     "numberOfModels": 3,
     "models": "Airbus A319, Airbus A320, Airbus A321",
     "startYear": 1994,
-    "founders": "",
+    "founders": "Frederick W. Rick Brown, Janice Brown, Bob Schulman",
     "description": "Founded in 1994 after the original Frontier Airlines (1950-1986) ceased operations, it now operates as a low-cost carrier with a focus on environmental sustainability.",
     "country": "USA"
   }
